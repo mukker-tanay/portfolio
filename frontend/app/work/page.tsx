@@ -83,7 +83,7 @@ export default function WorkPage() {
                </div>
 
                {/* Abstract Visual Placeholder */}
-               <div className="w-full md:w-1/3 aspect-[4/3] bg-neutral-900 rounded-lg border border-neutral-800 flex items-center justify-center relative overflow-hidden">
+               <div className="w-full md:w-1/3 aspect-4/3 bg-neutral-900 rounded-lg border border-neutral-800 flex items-center justify-center relative overflow-hidden">
                     <div className="absolute inset-0 bg-neutral-800/20 group-hover:bg-neutral-800/40 transition-colors" />
                     <span className="text-neutral-700 font-mono text-sm">Privileged Information</span>
                </div>

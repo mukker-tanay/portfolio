@@ -169,5 +169,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'tanaymukker@gmail.com'
-EMAIL_HOST_PASSWORD = 'cprc hkzz cbwe bwca' # Generate at myaccount.google.com/apppasswords
+EMAIL_HOST_PASSWORD = '' # Generate at myaccount.google.com/apppasswords
 DEFAULT_FROM_EMAIL = 'tanaymukker@gmail.com'
